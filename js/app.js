@@ -87,7 +87,7 @@ if((verificar === true) === carrito.length){
     console.log("Con Gastos de envío")
 }
 
-//Montar con HMLT y API HTML basica
+//Montar con HTML y API HTML basica
 var producto;
 document.write("<h2>Carrito de Compra:</h2>");
 for(producto of carrito){
